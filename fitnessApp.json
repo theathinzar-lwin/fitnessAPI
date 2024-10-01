@@ -1,0 +1,11 @@
+{
+    "endpoints": {
+        "login":"<add-route-here>",
+        "register":"<add-route-here>",
+        "addWorkout": "<add-route-here>",
+        "getMyWorkouts":"<add-route-here>",
+        "updateWorkout":"<add-route-here>",
+        "deleteWorkout":"<add-route-here>",
+        "completeWorkoutStatus":"<add-route-here>"
+    }
+}
